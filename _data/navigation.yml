@@ -46,28 +46,28 @@
   # - title: "AI Avatar & Learning Sciences"
   #   url: "/AI_avatar_and_learning_sciences/"
 
-
-
-- title: Research Projects
-  url: "/projects_AIvsH/"
-  side: right
-  dropdown:
-  - title: "AI and Human Speech"
-    url: "/projects_AIvsH/"
-  - title: "Audio Analysis"
-    url: "/research_speaker_to_be_added/"
-    # url: "/research/#speaker-identification"
-  - title: "Perception Studies"
-    # url: "/research/#speaker-identification"
-    url: "/research_speaker_to_be_added/"
-  - title: "AX Discrimination"
-    url: "/research_speaker_to_be_added/"
-    # url: "/research/#speaker-identification"
-
-
 - title: Publications
   url: "/publications/"
   side: right
+
+
+- title: Sample Cloned Voices
+  url: "/projects_AIvsH/"
+  side: right
+  # dropdown:
+  # - title: "AI and Human Speech"
+  #   url: "/projects_AIvsH/"
+  # - title: "Audio Analysis"
+  #   url: "/research_speaker_to_be_added/"
+  #   # url: "/research/#speaker-identification"
+  # - title: "Perception Studies"
+  #   # url: "/research/#speaker-identification"
+  #   url: "/research_speaker_to_be_added/"
+  # - title: "AX Discrimination"
+  #   url: "/research_speaker_to_be_added/"
+  #   # url: "/research/#speaker-identification"
+
+
 
 # - title: Funding
 #   url: "/funding/"
