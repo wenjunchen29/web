@@ -14,7 +14,7 @@ permalink: "/publications/"
   <h2>Publications</h2>
   <ul>
     <li><a href="#Published">Published</a></li>
-    <li><a href="#In Press/Preparation">In Press/Preparation</a></li>
+    <li><a href="#Working Papers">Working Papers</a></li>
 
   </ul>
   <h3 id="Published">Published</h3>
@@ -22,9 +22,9 @@ permalink: "/publications/"
     <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X.* (2023). 社会心理语言学视域下言者个体与群体身份编码和解码 A social psycholinguistics perspective: Encoding and decoding mechanisms for speakers’ individual and group identities. <a href="http://jfl.shisu.edu.cn/CN/abstract/abstract729.shtml" target="_blank"><em>外国语 The Journal of Foreign Languages</em></a>, 46(4): 68-81. 
     <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C" target="_blank"><span style="background-color:yellow">Google Scholar</span> | <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_1_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a><br><br>
 
-  <h3 id="In Press/Preparation">In Press/Preparation</h3>
-    <li><strong>Chen, W</strong>., & Jiang, X.* (Submitted). Voice-cloning Artificial-intelligence speakers can also mimic human-specific vocal expression. Submitted to <a href="https://www.sciencedirect.com/journal/speech-communication" target="_blank"><em>Speech Communication</em></a>.   <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_2_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a>   
-    <li> Hu, Y., Li, R., Jiang, X.*, & <strong>Chen, W.</strong> (Submitted). The Change in Aesthetic Experience Predicts Theory of Mind ability: Evidence from Drama Improvisation Training. Submitted to <a href="https://www.sciencedirect.com/journal/the-arts-in-psychotherapy" target="_blank"><em>The Arts in Psychotherapy</em></a>.  
+  <h3 id="Working Papers">Working Papers</h3>
+    <li><strong>Chen, W</strong>., & Jiang, X.* (Under Review). Voice-cloning Artificial-intelligence speakers can also mimic human-specific vocal expression. Submitted to <a href="https://www.sciencedirect.com/journal/speech-communication" target="_blank"><em>Speech Communication</em></a>.   <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_2_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a>   
+    <li> Hu, Y., Li, R., Jiang, X.*, & <strong>Chen, W.</strong> (Under Review). The Change in Aesthetic Experience Predicts Theory of Mind ability: Evidence from Drama Improvisation Training. Submitted to <a href="https://www.sciencedirect.com/journal/the-arts-in-psychotherapy" target="_blank"><em>The Arts in Psychotherapy</em></a>.  
     <li><strong>Chen, W</strong>., & Jiang, X.* (In Preparation). Vocal expression modulates perceptual and social judgment of human and voice-cloning synthetic speeches.
 
 
