@@ -20,7 +20,7 @@ permalink: "/publications/"
   </ul>
   <h3 id="Published">Published</h3>
   <u1>
-    <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X.* (2023). 社会心理语言学视域下言者个体与群体身份编码和解码 A social psycholinguistics perspective: Encoding and decoding mechanisms for speakers’ individual and group identities. <a href="http://jfl.shisu.edu.cn/CN/abstract/abstract729.shtml" target="_blank"><em>外国语 The Journal of Foreign Languages</em></a>, 46(4): 68-81. 
+    <li><strong>Chen, W</strong>., Hu, Y. & Jiang, X.* (2023). 社会心理语言学视域下言者个体与群体身份编码和解码 Encoding and Decoding Mechanisms for Speakers’ Individual and Group Identities: A Social Psycholinguistics Perspective. <a href="http://jfl.shisu.edu.cn/CN/abstract/abstract729.shtml" target="_blank"><em>外国语 The Journal of Foreign Languages</em></a>, 46(4): 68-81. 
     <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C" target="_blank"><span style="background-color:yellow">Google Scholar</span> | <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_1_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a><br><br>
 
   <h3 id="Under Review">Under Review</h3>
