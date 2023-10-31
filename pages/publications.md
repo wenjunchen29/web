@@ -28,7 +28,7 @@ permalink: "/publications/"
     <li> Hu, Y., Li, R., Jiang, X.*, & <strong>Chen, W.</strong> (Under Review). The Change in Aesthetic Experience Predicts Theory of Mind ability: Evidence from Drama Improvisation Training. Submitted to <a href="https://www.sciencedirect.com/journal/the-arts-in-psychotherapy" target="_blank"><em>The Arts in Psychotherapy</em></a>.  
  
   <h3 id="Working Papers">Working Papers</h3>
-    <li><strong>Chen, W</strong>., & Jiang, X.* (In Preparation). Vocal expression modulates perceptual and social judgment of humans and voice-cloning synthetic speeches.
+    <li><strong>Chen, W</strong>., & Jiang, X.* (In Preparation). Vocal expression modulates perceptual and social judgment of human and voice-cloning synthetic speeches.
     <li><strong>Chen, W</strong>., & Jiang, X.* (In Preparation). Electrophysiological Correlates of Human and AI Voice Recognition Across Emotional Prosodies. 
 
 
