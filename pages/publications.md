@@ -24,7 +24,7 @@ permalink: "/publications/"
     <a href="https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-TW&user=iF2CM7sAAAAJ&sortby=pubdate&citation_for_view=iF2CM7sAAAAJ:DwWRdx-KAo4C" target="_blank"><span style="background-color:yellow">Google Scholar</span> | <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_1_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a><br><br>
 
   <h3 id="Under Review">Under Review</h3>
-    <li><strong>Chen, W</strong>., & Jiang, X.* (Under Review). Voice-cloning Artificial-intelligence speakers can also mimic human-specific vocal expressions. Submitted to <a href="https://www.sciencedirect.com/journal/speech-communication" target="_blank"><em>Speech Communication</em></a>.   <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_2_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a>   
+    <li><strong>Chen, W</strong>., & Jiang, X.* (Under Review). Voice-cloning Artificial-intelligence speakers can also mimic human-specific vocal expression. Submitted to <a href="https://www.sciencedirect.com/journal/speech-communication" target="_blank"><em>Speech Communication</em></a>.   <a href="{{ site.url }}{{ site.baseurl }}/files/Publication_2_Wenjun_CHEN.pdf" target="_blank"><span style="background-color:yellow">PDF</span></a>   
     <li> Hu, Y., Li, R., Jiang, X.*, & <strong>Chen, W.</strong> (Under Review). The Change in Aesthetic Experience Predicts Theory of Mind ability: Evidence from Drama Improvisation Training. Submitted to <a href="https://www.sciencedirect.com/journal/the-arts-in-psychotherapy" target="_blank"><em>The Arts in Psychotherapy</em></a>.  
  
   <h3 id="Working Papers">Working Papers</h3>
