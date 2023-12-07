@@ -8,7 +8,7 @@ header:
 teaser              : "Let's keep in touch!"
 permalink           : "/contact/"
 ---
-![ETHZ+city](https://radiochem.pharma.ethz.ch/news/_jcr_content/par/fullwidthimage/image.imageformat.lightbox.1498155744.jpg)
+<!-- ![ETHZ+city](https://radiochem.pharma.ethz.ch/news/_jcr_content/par/fullwidthimage/image.imageformat.lightbox.1498155744.jpg)
 
 <hr style="width:100%;color:black;height:10px">
 
@@ -47,6 +47,6 @@ NOT CURRENTLY RUNNING:
 
 The goal of the Social Robots Journal Club is to discuss recent articles in the field of human-robot interaction (HRI). We will read and dissect papers from a wide range of HRI topics, from the perception of artificial agents, to the beliefs and experiences of human agents, to (non)shared neural representation mediating interaction with our robotic friends and much more. 
 
-Want to see more? [Check out some of our lab photos here!](https://www.soba-lab.com/soba-fun)
+Want to see more? [Check out some of our lab photos here!](https://www.soba-lab.com/soba-fun) -->
 
 <!-- If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/) -->
