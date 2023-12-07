@@ -4,7 +4,7 @@ title               : "SoBAFun"
 #meta_title          : "Contact and use our contact form"
 #subheadline         : "Contact Form"
 # teaser              : "Let's keep in touch!"
-permalink           : "/SoBAFun/"
+# permalink           : "/SoBAFun/"
 
 ---
 <!DOCTYPE html>
