@@ -88,4 +88,4 @@ Fifth, another speaker identity <a href="https://www.pnas.org/doi/full/10.1073/p
 
 
 ----
-<span style="color:green">Note. This website is under developing. Viewing it with browser on PC is recommended. And, thank you for checking my website! Have a lovely one!</span>
+<span style="color:green">Note. This website is under developing. Viewing it with browser on PC is recommended. Thank you for checking my website! Have a lovely day!</span>
