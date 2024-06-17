@@ -1,0 +1,11 @@
+1. 导航到项目目录
+cd /d/Software/Github/web
+
+2. 安装依赖项（非每次必须）
+bundle install
+
+3. 启动本地服务器
+bundle exec jekyll serve
+
+4. Jekyll预览本地站点
+http://127.0.0.1:4000/web/

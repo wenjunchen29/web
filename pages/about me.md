@@ -19,7 +19,7 @@ toc: true
     <div class="overlay">Wenjun Chen (Alex)</div>
   </div>
   <p class="text">I completed my BA in Business English (specialising in Linguistics) at Heilongjiang University. I am doing my 3-year master’s degree in Master of Foreign Linguistics and Applied Linguistics (Psycholinguistics & Neurolinguistics) at <a href="https://xiaomingjiang.wordpress.com/about/" target="_blank">the Psychology and Neurobiology of Language Group</a> based at Shanghai International Studies University. My current studies aim to address how people auditorily process speech, which varies from speaker sources (human vs. AI) and prosodies (confident/doubtful/neutral-intending) and the according neuro correlates. <br/> <br/> <a href="{{ site.url }}{{ site.baseurl }}/files/CV_Wenjun_CHEN.pdf" target="_blank"><span style="text-decoration: underline; text-underline-offset: 3px;">CV</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=MOPUcx8AAAAJ&hl=zh-TW" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wenjunchen_alex" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: underline; text-underline-offset: 3px;">Email: </a>chenwenjunedu@outlook.com</p> 
-
+  
   
 
 </div>
