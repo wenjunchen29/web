@@ -18,9 +18,9 @@ toc: true
     <img class="main-image" src="{{ site.url }}{{ site.baseurl }}/images/Alex_photo_1.jpg" alt="">
     <div class="overlay">Wenjun Chen (Alex)</div>
   </div>
-  <p class="text">I completed my BA in Business English (specialising in Linguistics) at Heilongjiang University. I am doing my 3-year master’s degree in Master of Foreign Linguistics and Applied Linguistics (Psycholinguistics & Neurolinguistics) at <a href="https://xiaomingjiang.wordpress.com/about/" target="_blank">the Psychology and Neurobiology of Language Group</a> based at Shanghai International Studies University. My current studies aim to address how people auditorily process speech, which varies from speaker sources (human vs. AI) and prosodies (confident/doubtful/neutral-intending) and the according neuro correlates. <br/> <br/> <a href="{{ site.url }}{{ site.baseurl }}/files/CV_Wenjun_CHEN.pdf" target="_blank"><span style="text-decoration: underline; text-underline-offset: 3px;">CV</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=MOPUcx8AAAAJ&hl=zh-TW" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wenjunchen_alex" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: underline; text-underline-offset: 3px;">Email: </a>chenwenjunedu@outlook.com</p> 
-  
-  
+<p class="text">I am currently a PhD student at McGill University, Canada. My research focuses on voice cloning, vocal emotion, speaker identification, and impression formation. <br/><br/><a href="https://scholar.google.co.uk/citations?user=MOPUcx8AAAAJ&hl=zh-TW" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/wenjunchen_alex" target="_blank" style="text-decoration: underline; text-underline-offset: 3px;">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: underline; text-underline-offset: 3px;">Email:</a>&nbsp;wenjun.chen@mail.mcgill.ca</p>
+
+
 
 </div>
 
@@ -88,4 +88,4 @@ Fifth, another speaker identity <a href="https://www.pnas.org/doi/full/10.1073/p
 
 
 ----
-<span style="color:green">Note. This website is under developing. Viewing it with browser on PC is recommended. Thank you for checking my website! Have a lovely day!</span>
+<span style="color:green">Note. This website is under developing. Viewing it with browser on PC is recommended. Also, my PhD work and ongoing projects are not yet reflected here, but they will be added soon. Thank you for checking my website! Have a lovely day! </span>
